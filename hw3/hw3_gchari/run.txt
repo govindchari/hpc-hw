@@ -1,0 +1,1 @@
+g++ -o xtest test.cpp mm_ijk.cpp mm_ikj.cpp mm_jik.cpp mm_kij.cpp mm_jki.cpp mm_kji.cpp && ./xtest
